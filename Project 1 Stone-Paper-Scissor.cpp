@@ -2,7 +2,7 @@
 Project: Stone, Paper, Scissors Game
 Course: Programming Advices - Algorithms & Problem Solving Level 2
 Purpose: Demonstrating Logical Thinking, Functions, Structs, and Enums in C++.
-Author: [Ahmed Sheikh Aldeen Yusef]
+By: [Ahmed Sheikh Aldeen Yusef]
 */
 
 #include <iostream>
